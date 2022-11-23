@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @agnese-galeazzi
-- 🌱 I’m currently learning Python and Julia
-- 💞️ I’m looking to collaborate on anything Machine Learning related!
 - 📫 How to reach me: message me here!
 
 <!---
